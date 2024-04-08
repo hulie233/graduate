@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+该工程代码仅为整个系统的前端部分。
